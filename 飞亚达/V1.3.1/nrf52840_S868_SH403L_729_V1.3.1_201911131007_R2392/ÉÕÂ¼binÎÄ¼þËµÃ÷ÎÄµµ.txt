@@ -1,0 +1,21 @@
+1.OTA升级包
+   APP
+
+2.工厂烧录固件
+   APP
+
+3.生产OTA升级bin文件（包含UI,字库，GPS固件）
+   可以用手机APP升级UI,字库，GPS固件
+
+
+4.生产烧录bin文件（包含UI,字库，GPS固件）
+   烧录FLASH母片
+
+5.生产烧录hex文件（包含UI,字库,GPS固件）
+   使用J-LINK升级
+
+
+
+
+
+
